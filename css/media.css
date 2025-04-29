@@ -1,0 +1,37 @@
+/* Media Queries */
+@media screen and (max-width:580px) {
+    .box {
+        width:335px;
+   }
+
+    .title h2 {
+      font-size: 18px;
+    }
+
+    .title i {
+         font-size: 17px;
+    }
+
+    .length h3 {
+        font-size: 13px;
+       
+    }
+
+    .length input[type=number] {
+        width: 30%;
+       
+    }
+
+    .options label {
+        width: 60%;
+        font-size: 13px;
+       
+    }
+
+    .strength {
+        width: 100%;
+       
+    }
+    
+}
+/****/
