@@ -32,6 +32,11 @@
         width: 100%;
        
     }
+
+    .inputText input[type=text] {
+       padding-left: 10px;
+    }
+
     
 }
 /****/
